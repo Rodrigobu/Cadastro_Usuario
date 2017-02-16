@@ -1,0 +1,21 @@
+*.pyc
+*.*~
+*.swp
+
+# Arquivos ocultos de projetos
+.idea/
+.settings/*
+.project
+.pydevproject
+.project
+.metadata
+.metadata/
+.metadata/*
+.settings/*
+*.pydevproject
+.idea
+.idea/
+.idea/*
+.git/logs/*
+.git/logs
+.git/objects/*
